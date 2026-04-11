@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Mohammadreza
 
-<!--
-**a1mmdrez-ui/a1mmdrez-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student | Backend Developer (Django)
 
-Here are some ideas to get you started:
+🚀 Focused on Python & Backend Development  
+🧠 Learning by building real-world projects  
+⚙️ Passionate about clean code and scalable systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python
+- 🌐 Django
+- 🔧 Git & GitHub
+- 🗄️ SQL / Databases
+- 🧩 REST APIs (Learning)
+
+---
+
+## 🎯 Current Goals
+
+- Building real backend projects 🚀  
+- Mastering Django & REST Framework  
+- Improving problem-solving skills  
+- Becoming a professional backend developer  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a1mmdrez-ui&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- GitHub: [a1mmdrez-ui](https://github.com/a1mmdrez-ui)
+
+---
+
+> “Always learning, always building.” 🚀
