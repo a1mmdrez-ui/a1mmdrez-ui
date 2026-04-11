@@ -39,6 +39,16 @@
 
 ---
 
+## 🚀 Projects
+
+- 🐍 Django Blog API (Coming Soon)
+- 🧩 Personal Portfolio Website (In Progress)
+- ⚙️ More backend projects on the way...
+
+👉 Check my repositories: https://github.com/a1mmdrez-ui?tab=repositories
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -47,6 +57,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1mmdrez-ui&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=a1mmdrez-ui&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a1mmdrez-ui&theme=tokyo-night" />
 </p>
 
 ---
