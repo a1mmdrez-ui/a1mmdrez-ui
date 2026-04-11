@@ -1,6 +1,5 @@
-# Hi 👋 I'm Mohammadreza
-
-💻 Computer Engineering Student | Backend Developer (Django)
+<h1 align="center">Hi 👋, I'm Mohammadreza</h1>
+<h3 align="center">Backend Developer | Python & Django Enthusiast 🚀</h3>
 
 🚀 Focused on Python & Backend Development  
 🧠 Learning by building real-world projects  
